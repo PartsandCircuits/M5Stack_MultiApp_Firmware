@@ -41,8 +41,8 @@ Make sure you uninstall the original M5Stack and M5Stack libraries from Arduino 
 <br />
 
 <p align="center">
-<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_191824.jpg" height="300">
-<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_192148.jpg" height="300">
+<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/Apps.png" height="300">
+
 </p>
 
 <br />
