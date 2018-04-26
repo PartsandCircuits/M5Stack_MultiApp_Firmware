@@ -53,7 +53,10 @@ Make sure you uninstall the original M5Stack and M5Stack libraries from Arduino 
 Extract Data.zip to M5Stack SDCard root
 
 1. run ESPFlashDownloadTool_v3.6.4.exe
-2. Select ESP32 DownloadTool
+2. Select ESP32 DownloadTool 
+
+Refer to image below...
+
 3. Select firmware File 
 4. enter address for file: 0x10000
 5. Select the COM PORT on Download tool
@@ -61,12 +64,9 @@ Extract Data.zip to M5Stack SDCard root
 7. Click START on Download Tool and release the Reset key
 
 After flashing, press reset key to start the M5Stack
-
-<br />
 <br />
 
-## ESP Flash Download Tool - Settings
-<br />
+### ESP Flash Download Tool - Settings
 <br />
 
 <p align="center">
