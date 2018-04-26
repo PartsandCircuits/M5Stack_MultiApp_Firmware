@@ -41,11 +41,33 @@ Make sure you uninstall the original M5Stack and M5Stack libraries from Arduino 
 <br />
 
 <p align="center">
-<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_191824.jpg" height="400">
+<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_191824.jpg" height="300">
+<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_192148.jpg" height="300">
 </p>
+
+
+## Installation
+
+Extract Data.zip to M5Stack SDCard root
+
+1. run ESPFlashDownloadTool_v3.6.4.exe
+2. Select ESP32 DownloadTool
+3. Select firmware File 
+4. enter address for file: 0x10000
+5. Select the COM PORT on Download tool
+6. Hold RESET key pressed on M5Stack
+7. Click START on Download Tool and release the Reset key
+
+After flashing, press reset key to start the M5Stack
+
+<br />
+<br />
+
+# ESP Flash Download Tool - Settings
 
 <br />
 
 <p align="center">
-<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_192148.jpg" height="400">
+<img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Precompiled_MultiFirmware/Flasher%20Instructions.jpg" height="800">
 </p>
+
