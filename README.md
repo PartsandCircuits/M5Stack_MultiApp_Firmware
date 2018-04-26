@@ -16,8 +16,9 @@
 - The menu images are stored on SdCard so they are customisable
 
 - The project is made on Visual Studio, using VisualMicro plugin.
-- The project use modifed M5Stack and M5StackSAM libraryes. 
-Make sure you uninstall the original M5Stack and M5Stack libraryes from Arduino IDE to avoid conflicts on compile.
+- The project uses modifed M5Stack and M5StackSAM libraries. 
+Make sure you uninstall the original M5Stack and M5Stack libraries from Arduino IDE to avoid conflicts on compile.
+- This project is by [Calin](https://github.com/botofancalin) - forked from [here](https://github.com/botofancalin/M5Stack_MultiApp_Firmware)
 
 <br />
 <br />
