@@ -45,6 +45,8 @@ Make sure you uninstall the original M5Stack and M5Stack libraries from Arduino 
 <img src="https://github.com/PartsandCircuits/M5Stack_MultiApp_Firmware/blob/master/Project_Images/20180407_192148.jpg" height="300">
 </p>
 
+<br />
+<br />
 
 ## Installation
 
@@ -63,8 +65,8 @@ After flashing, press reset key to start the M5Stack
 <br />
 <br />
 
-# ESP Flash Download Tool - Settings
-
+## ESP Flash Download Tool - Settings
+<br />
 <br />
 
 <p align="center">
